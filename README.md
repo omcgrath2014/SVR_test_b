@@ -1,2 +1,2 @@
 # SVR_test_b
-Test with objects and scene
+Test with objects and scene - SeeingVR
